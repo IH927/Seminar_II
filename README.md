@@ -2,7 +2,7 @@
 114 學年度第 2 學期 書報討論<br>
 ## 筆記
 
-03/03 []()
+03/03 [Mini/Micro LED Design and Challenges for Advanced Displays](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260303.pdf)
 
 03/10 []()
 
