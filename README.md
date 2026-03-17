@@ -4,9 +4,8 @@
 
 03/03 [Mini/Micro LED Design and Challenges for Advanced Displays](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260303.pdf)
 
-03/10 [The Development and Applications of BioImpedance Technology](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260317.pdf)
+03/17 [The Development and Applications of BioImpedance Technology](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260317.pdf)
 
-03/17 []()
 
 03/31 []()
 
