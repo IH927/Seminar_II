@@ -7,7 +7,7 @@
 03/17 [The Development and Applications of BioImpedance Technology](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260317.pdf)
 
 
-03/31 []()
+03/31 [如何打造台版 Edge Impulse TinyML 開發平台](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260331.pdf)
 
 04/07 []()
 
