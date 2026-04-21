@@ -9,9 +9,7 @@
 
 03/31 [如何打造台版 Edge Impulse TinyML 開發平台](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260331.pdf)
 
-04/07 []()
-
-04/21 []()
+04/21 [DEVELOPING HEAVY-LIFT HYBRID DRONES FOR CONTESTED LOGISTICS](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260421.pdf)
 
 04/28 []()
 
