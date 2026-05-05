@@ -11,7 +11,7 @@
 
 04/21 [DEVELOPING HEAVY-LIFT HYBRID DRONES FOR CONTESTED LOGISTICS](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260421.pdf)
 
-04/28 []()
+05/05 [群測感知技術與應用](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260505.pdf)
 
 05/12 []()
 
