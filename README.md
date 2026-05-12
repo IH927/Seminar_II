@@ -21,3 +21,5 @@
 ## 書面報告
 
 03/31 [如何打造台版 Edge Impulse TinyML 開發平台](https://github.com/IH927/Seminar_II/blob/main/Reports/Seminar_II_Report_0331.pdf)
+
+05/12 [綠⾊科技與光電元件之發展應⽤](https://github.com/IH927/Seminar_II/blob/main/Reports/Seminar_II_Report_0512.pdf)
