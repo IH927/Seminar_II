@@ -13,7 +13,7 @@
 
 05/05 [群測感知技術與應用](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260505.pdf)
 
-05/12 []()
+05/12 [綠⾊科技與光電元件之發展應⽤](https://github.com/IH927/Seminar_II/blob/main/Notes/Seminar_II_260512.pdf)
 
 05/26 []()
 
